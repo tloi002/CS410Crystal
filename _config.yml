@@ -1,11 +1,1 @@
-# Site settings
-title: Note Taking App
-description: Team Crystal
-author:
-  name: Team Crystal
-  
-#description: "Making 
-
-# Build settings
-# Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
